@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%
+}
+
+.nav{
+    background-color: black;
+}
+.nav-logo{
+    height: 60px;
+    width: 40px;
+    border: 1px solid white;
+   
+}
+.logo{
+    background-image: url("https://images.search.yahoo.com/images/view;_ylt=AwrjbU5M4u5lJeY2PDqJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2FjYzk2ZWRkYjcyNjUxODAyMWEwYTRhODJjOTliYTIwBGdwb3MDMQRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dclock%26type%3DE210US885G91826%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D1&w=3378&h=4622&imgurl=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fcf%2FPendulum_clock_by_Jacob_Kock%252C_antique_furniture_photography%252C_IMG_0931_edit.jpg&rurl=http%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APendulum_clock_by_Jacob_Kock%2C_antique_furniture_photography%2C_IMG_0931_edit.jpg&size=8504.9KB&p=clock&oid=acc96eddb726518021a0a4a82c99ba20&fr2=piv-web&fr=mcafee&tt=File%3APendulum+clock+by+Jacob+Kock%2C+antique+furniture+photography%2C+IMG+0931+edit.jpg+-+Wikimedia+...&b=0&ni=21&no=1&ts=&tab=organic&sigr=kDLnzvH93Py6&sigb=PzopgTW6MdL3&sigi=vtnZsm5IzxtC&sigt=hylNaxTSize0&.crumb=stE0qLJgNtG&fr=mcafee&fr2=piv-web&type=E210US885G91826");
+}
